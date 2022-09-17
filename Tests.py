@@ -40,7 +40,6 @@ def test_is_prime_problem(arg, result):
     ]
 )
 def test_top_K_element(arg1, arg2, result):
-    # assert solution(arg1, arg2) == result
     assert solution_2(arg1, arg2) == result
 
 
